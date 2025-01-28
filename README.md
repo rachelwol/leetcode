@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rachelwol/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/rachelwol/leetcode/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/rachelwol/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
