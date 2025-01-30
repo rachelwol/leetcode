@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rachelwol/leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/rachelwol/leetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/rachelwol/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Array
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rachelwol/leetcode/tree/master/0046-permutations) |
 | [0136-single-number](https://github.com/rachelwol/leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/rachelwol/leetcode/tree/master/0137-single-number-ii) |
 ## Backtracking
 |  |
 | ------- |
