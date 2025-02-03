@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rachelwol/leetcode/tree/master/0046-permutations) |
+## Math
+|  |
+| ------- |
+| [1446-angle-between-hands-of-a-clock](https://github.com/rachelwol/leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
