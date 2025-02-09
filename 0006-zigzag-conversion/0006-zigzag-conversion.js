@@ -4,12 +4,12 @@
  * @return {string}
  */
 var convert = function(s, numRows) {
+    if(numRows == 1)
+        return s;
     let curr = 0;
     const rows = Array(numRows).fill(null).map(() => "");
-    let next = numRows == 1 ? 0:-1;
+    let next = -1;
     for(const c of s){
-        console.log('rows[curr]',rows[curr]);
-        console.log('curr',curr);
         rows[curr]+=c;
         if(curr === 0 || curr === numRows -1)
             next *= -1;
