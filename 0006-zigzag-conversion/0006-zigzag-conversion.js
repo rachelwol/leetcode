@@ -7,7 +7,7 @@ var convert = function(s, numRows) {
     if(numRows == 1 || numRows >= s.length)
         return s;
     let curr = 0;
-    const rows = Array(numRows).fill(null).map(() => "");
+    const rows = Array(numRows).fill('');
     let next = -1;
     for(const c of s){
         rows[curr]+=c;
