@@ -7,9 +7,9 @@ var convert = function (s, numRows) {
     if (numRows == 1 || numRows >= s.length)
         return s;
     let curr = 0;
-    let rows = Array(numRows).fill('');
+    const rows = Array(numRows).fill('');
     let next = 1;
-    for (let c of s) {
+    for (const c of s) {
         rows[curr] += c;
         if (curr === 0)
             next = 1;
