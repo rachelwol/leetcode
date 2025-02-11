@@ -4,7 +4,7 @@
  * @return {string}
  */
 var convert = function(s, numRows) {
-    if(numRows == 1 || numRows >= s.length)
+    if(numRows == 1)
         return s;
     let curr = 0;
     const rows = Array(numRows).fill(null).map(() => "");
