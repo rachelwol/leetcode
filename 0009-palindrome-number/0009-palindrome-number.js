@@ -6,7 +6,6 @@ var isPalindrome = function(x) {
     if(x < 0){
         return false;
     }
-    
     const originNum = x;
     let reversedNum = 0;
     while(x > 0){
