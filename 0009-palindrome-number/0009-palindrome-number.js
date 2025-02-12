@@ -12,7 +12,8 @@ var isPalindrome = function(x) {
     const originNum = x;
     let reversedNum = 0;
     while(x > 0){
-        reversedNum = reversedNum *10 + x%10;
+        let lastNum = x%10;
+        reversedNum = reversedNum *10 + lastNum;
         x = Math.floor(x/10);
     }
     return originNum === reversedNum;
