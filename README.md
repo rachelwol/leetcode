@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rachelwol/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1397-search-suggestions-system](https://github.com/rachelwol/leetcode/tree/master/1397-search-suggestions-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rachelwol/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rachelwol/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rachelwol/leetcode/tree/master/0260-single-number-iii) |
+| [1397-search-suggestions-system](https://github.com/rachelwol/leetcode/tree/master/1397-search-suggestions-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -56,4 +58,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rachelwol/leetcode/tree/master/0006-zigzag-conversion) |
+| [1397-search-suggestions-system](https://github.com/rachelwol/leetcode/tree/master/1397-search-suggestions-system) |
+## Trie
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/rachelwol/leetcode/tree/master/1397-search-suggestions-system) |
+## Sorting
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/rachelwol/leetcode/tree/master/1397-search-suggestions-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/rachelwol/leetcode/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
