@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rachelwol/leetcode/tree/master/0006-zigzag-conversion) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rachelwol/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1397-search-suggestions-system](https://github.com/rachelwol/leetcode/tree/master/1397-search-suggestions-system) |
 ## Trie
 |  |
@@ -71,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/rachelwol/leetcode/tree/master/1397-search-suggestions-system) |
+## Hash Table
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rachelwol/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rachelwol/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rachelwol/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
