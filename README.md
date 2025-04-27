@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/rachelwol/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rachelwol/leetcode/tree/master/0260-single-number-iii) |
 | [1397-search-suggestions-system](https://github.com/rachelwol/leetcode/tree/master/1397-search-suggestions-system) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/rachelwol/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Backtracking
 |  |
 | ------- |
