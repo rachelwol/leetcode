@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rachelwol/leetcode/tree/master/0046-permutations) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rachelwol/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rachelwol/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rachelwol/leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rachelwol/leetcode/tree/master/0260-single-number-iii) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rachelwol/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/rachelwol/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rachelwol/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
